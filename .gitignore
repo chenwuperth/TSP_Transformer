@@ -3,6 +3,5 @@
 **/__pycache__
 checkpoint/
 *.swp
-*.sh
 pyconcorde/*
 
